@@ -10,15 +10,14 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['6285174306183', 'NANS OFFC', true],
-  ['6285880029379']
+  ['62895410106096', 'AMS', true],
 ] // Nomor Owner
 
-global.mods = ['6285174306183'] 
-global.prems = ['6285174306183', '6285880029379']
+global.mods = ['62895410106096'] 
+global.prems = ['62895410106096']
 
 // apikey
-global.lann = 'apikeylu'
+global.lann = ''
 // apikeylu di ganti menggunakan apikey yang di dapatkan di website https://api.betabotz.org. contohnya global.lann = 'nans' (contoh). cara mendapatkan apikey. masuk website > scroll ke bawah dan cari harga yang kamu mau ada juga yang free dan tekan > otomatis akan di arahkan untuk registrasi, isi data diri email dll. > kalo sudah klik profil dan di situ akan muncul apikey mu. terima kasih.
 
 global.APIKeys = { // APIKey Here
